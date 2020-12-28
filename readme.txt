@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 new branch
 
-new dev branch
+100 issue new dev branch
